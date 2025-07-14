@@ -1,0 +1,21 @@
+Model name : LinearRegression
+
+Mean Absolute Error (MAE): 2994520568.6785865
+Mean Squared Error (MSE): 2.1301200203748487e+19
+Root Mean Squared Error (RMSE): 4615322329.344776
+R-squared (R2): 0.39183453777887 
+Mean Absolute Percentage Error (MAPE): 881.32%
+Model name : RandomForestRegressor
+
+Mean Absolute Error (MAE): 1808285988.987857
+Mean Squared Error (MSE): 8.225241605664072e+18
+Root Mean Squared Error (RMSE): 2867968201.6480017
+R-squared (R2): 0.765163098081728 
+Mean Absolute Percentage Error (MAPE): 118.31%
+Model name : GradientBoostingRegressor
+
+Mean Absolute Error (MAE): 2097462085.272106
+Mean Squared Error (MSE): 2.357217933284469e+19
+Root Mean Squared Error (RMSE): 4855118879.373057
+R-squared (R2): 0.3269963569002975 
+Mean Absolute Percentage Error (MAPE): 54.99%

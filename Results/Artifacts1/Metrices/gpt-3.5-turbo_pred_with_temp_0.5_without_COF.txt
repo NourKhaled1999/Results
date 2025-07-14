@@ -1,0 +1,8 @@
+Model name : gpt-3.5-turbo
+Tempreture: 0.5
+Mean Absolute Error (MAE): 100214745.46499999
+Mean Squared Error (MSE): 1.7135171558107096e+16
+Root Mean Squared Error (RMSE): 130901381.03972432
+R-squared (R2): 0.9628972937501672 
+Mean Absolute Percentage Error (MAPE): 15.55%
+Systematic Absolute Error (Bias): -73981412.13

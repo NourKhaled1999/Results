@@ -1,0 +1,8 @@
+Model name : gpt-4o
+Tempreture: 0.1
+Mean Absolute Error (MAE): 63224000.5
+Mean Squared Error (MSE): 7054100545177335.0
+Root Mean Squared Error (RMSE): 83988692.96028683
+R-squared (R2): 0.9847257893218658 
+Mean Absolute Percentage Error (MAPE): 15.60%
+Systematic Absolute Error (Bias): 33224000.50
